@@ -1,0 +1,21 @@
+Tanggal: 2023-11-02
+Kategori: Top Up Game
+Sumber Uang: Dana
+Uang Masuk: 10000
+Uang Keluar: 10000
+Jumlah: 0.0
+Keterangan: Top Up Game
+Tanggal: 2023-11-02
+Kategori: Top Up Game
+Sumber Uang: Cash
+Uang Masuk: 100000
+Uang Keluar: 100000
+Jumlah: 0.0
+Keterangan: Top Up Game , menggunakan uang cash sejumlah 100000
+Tanggal: 2023-11-03
+Kategori: Jajan
+Sumber Uang: Cash
+Uang Masuk: 1000
+Uang Keluar: 500
+Sisa: 500.0
+Keterangan: sisa 500
